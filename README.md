@@ -1,14 +1,6 @@
 # Particle-Swarm-Intelligence
 Optimizing functions via implementing Particle Swarm Intelligence.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Usage
 Just define your function and call Optimizer with your configuration, and then train it.
 ```python
