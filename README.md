@@ -5,7 +5,7 @@ Optimizing functions via implementing Particle Swarm Intelligence.
 Just define your function and call Optimizer with your configuration, and then train it.
 ```python
 solution = Optimizer(function = '#yourfunction', numberOfParticles=1000, w=0.8, c1=0.1, c2=0.1, 
-                      rangee=10,optima='max', max_v=5)
+                     rangee=10,optima='max', max_v=5)
 solution.train(50)
 ```
 ## Example
